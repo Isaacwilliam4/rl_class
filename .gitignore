@@ -1,4 +1,4 @@
 *.mp4
 *.pth
 *.summary
-*/train_dir/*
+train_dir/
